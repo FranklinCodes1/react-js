@@ -1,4 +1,4 @@
-# react-js
+
 Hello! There can be many use cases for this app including: grocery list, todo list, organizer, etc.
 Type something in the input field, then click the 'Add Todo'
 You will see it appear with a checkbox which you can manually check(uncheck as well) in order to clear selected items.
